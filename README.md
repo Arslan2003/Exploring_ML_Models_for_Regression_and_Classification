@@ -137,8 +137,35 @@ This project can be explored in **three ways**: using the Jupyter Notebook (`.ip
    python Exploring_ML_Models_for_Regression_and_Classification.py
    ```
 
+<br>
 
-   
+## Contributing
+This project is designed for beginner to intermediate users who want to explore and experiment with machine learning. Feel free to try out different data preprocessing steps, test various models and hyperparameters, explore evaluation metrics, and most importantly - have fun learning!
+
+<br>
+
+For more advanced users, contributions such as fixing bugs, adding new models, improving documentation, or suggesting new features are very welcome. If you want to contribute formally:
+- Fork the repository first.
+- Create a new branch for your feature or fix.
+- Ensure your code is well-documented and follows Python best practices.
+- Submit a pull request describing your changes clearly.
+
+<br>
+
+## Authors
+- Arslan Ishanov – project development, model implementation, optimisation, evaluation, and documentation.
+- University of Greenwich – for kindly providing the modified datasets and inspiring the development of this project.
+
+<br>
+
+## License
+
+This project is licensed under the **MIT License**.  
+- You are free to use, modify, and distribute this code, provided that you include the original copyright and license notice.  
+- The software is provided "as-is," without any warranty.  
+
+See the [LICENSE](LICENSE) file for full details.
+
 
 
  
