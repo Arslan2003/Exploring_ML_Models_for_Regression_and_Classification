@@ -8,7 +8,7 @@
 
 <br>
 
-## Description
+## 📝 Description
 
 This project demonstrates how to explore, implement, optimise, and evaluate different machine learning models for regression and classification tasks on real-world datasets. It is designed to provide hands-on experience for beginner-to-intermediate ML developers seeking to understand predictive modelling, data preprocessing, and model evaluation.
 
@@ -30,20 +30,20 @@ There are no restrictions on the choice of models, allowing exploration of multi
 
 <br>
 
-## Workflow
+## 🔄 Workflow
 
 1. **Data Preprocessing** – handled missing values, encoded categorical variables, normalised numerical features, and engineered new ones.  
 2. **Model Building** – trained three models (Lasso Regressor, Random Forest, XGBoost) for regression; K-Nearest Neighbours, Random Forest, and XGBoost for classification.  
 3. **Hyperparameter Tuning** – optimised models using cross-validation and grid search / Bayesian optimisation methods.  
 4. **Evaluation** – compared models using MAE, MSE, RMSE, and R² for regression; accuracy, precision, recall, and F1-score for classification.  
 5. **Visualisation** – plotted performance metrics and feature importance for model interpretability.
->For a more detailed discussion of methodology, results, and analysis, please refer to the [full report](Exploring ML Models for Regression and Classification.pdf).
+>For a more detailed discussion of methodology, results, and analysis, please refer to the [full report](Report.pdf).
 <!--- Add the link to the report --->
 
 <br>
 
 
-## Results
+## 📊 Results
 
 ### Regression
 
@@ -98,7 +98,7 @@ There are no restrictions on the choice of models, allowing exploration of multi
 
 <br>
 
-## Installation & Usage
+## ⚙️ Installation & Usage
 
 This project can be explored in **three ways**: using the Jupyter Notebook (`.ipynb`), running the Python script (`.py`), or experimenting directly in [Google Colab](https://colab.research.google.com/).
 
@@ -125,7 +125,7 @@ This project can be explored in **three ways**: using the Jupyter Notebook (`.ip
    ```bash
    pip install -r requirements.txt
    ```
-4. Open the notebook using your Jupyter Notebook or Jupyter Lab
+4. Open the ```Exploring_ML_Models_for_Regression_and_Classification.ipynb``` using your Jupyter Notebook or Jupyter Lab
 
 <br>
 
@@ -136,10 +136,13 @@ This project can be explored in **three ways**: using the Jupyter Notebook (`.ip
    ```bash
    python Exploring_ML_Models_for_Regression_and_Classification.py
    ```
+<br>
+
+After getting access to the notebook, play around with the code!
 
 <br>
 
-## Contributing
+## 🤝 Contributing
 This project is designed for beginner to intermediate users who want to explore and experiment with machine learning. Feel free to try out different data preprocessing steps, test various models and hyperparameters, explore evaluation metrics, and most importantly - have fun learning!
 
 <br>
@@ -152,13 +155,13 @@ For more advanced users, contributions such as fixing bugs, adding new models, i
 
 <br>
 
-## Authors
+## ✍️ Authors
 - Arslan Ishanov – project development, model implementation, optimisation, evaluation, and documentation.
 - University of Greenwich – for kindly providing the modified datasets and inspiring the development of this project.
 
 <br>
 
-## License
+## ⚖️ License
 
 This project is licensed under the **MIT License**.  
 - You are free to use, modify, and distribute this code, provided that you include the original copyright and license notice.  
