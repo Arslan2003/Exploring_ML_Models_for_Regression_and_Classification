@@ -1,4 +1,4 @@
-# Applied Machine Learning: Regression & Classification Models
+# Exploring ML Models for Regression and Classification
 *A hands-on project demonstrating regression and classification with multiple machine learning models*
 
 **ML Models Used:**
@@ -40,6 +40,8 @@ There are no restrictions on the choice of models, allowing exploration of multi
 >For a more detailed discussion of methodology, results, and analysis, please refer to the [full report](link-to-report.pdf).
 <!--- Add the link to the report --->
 
+<br>
+
 
 ## Results
 
@@ -63,9 +65,11 @@ There are no restrictions on the choice of models, allowing exploration of multi
 
 **Table 2.** Performance of the regression models on the cleaned dataset.
 
+<br>
+
 > **Conclusion:** All three models demonstrated comparable performance, with the optimised XGBoost model achieving the lowest prediction errors.
 
----
+<br>
 
 ### Classification
 
@@ -88,9 +92,53 @@ There are no restrictions on the choice of models, allowing exploration of multi
 
 **Table 4.** Performance of the fine-tuned models on the “Titanic” dataset.
 
+<br>
+
 > **Conclusion:** The Neural Network consistently outperformed the other models across all evaluation metrics, and the fine-tuned version further improved predictive performance.
 
+<br>
 
+## Installation & Usage
+
+This project can be explored in **three ways**: using the Jupyter Notebook (`.ipynb`), running the Python script (`.py`), or experimenting directly in [Google Colab](https://colab.research.google.com/).
+
+<br>
+
+### Option 1: Run in Google Colab (Recommended):
+1. Click [here](https://colab.research.google.com/drive/1T9uq_4XXVTDHvQrX08aMO9Bj2Muvis2n?usp=sharing#copy=true). 
+2. Colab will open the notebook and prompt you to save a copy to your own Google Drive.
+3. You can now edit, run, and experiment in your own copy of this project.
+
+<br>
+
+### **Option 2: Run the Notebook Locally**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Arslan2003/Exploring_ML_Models_for_Regression_and_Classification.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Exploring_ML_Models_for_Regression_and_Classification
+   ```
+3. Install the required packages using ```requirements.txt```
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Open the notebook using your Jupyter Notebook or Jupyter Lab
+
+<br>
+
+### Option 3: Run the Python Script Locally:
+1. Clone the repository and install the requirements as above.
+2. Open the ```Exploring_ML_Models_for_Regression_and_Classification.py``` in your preferred Python IDE (e.g., VSCode, PyCharm).
+3. Run the script:
+   ```bash
+   python Exploring_ML_Models_for_Regression_and_Classification.py
+   ```
+
+
+   
 
 
  
