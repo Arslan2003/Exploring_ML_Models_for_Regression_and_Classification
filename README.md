@@ -37,7 +37,7 @@ There are no restrictions on the choice of models, allowing exploration of multi
 3. **Hyperparameter Tuning** – optimised models using cross-validation and grid search / Bayesian optimisation methods.  
 4. **Evaluation** – compared models using MAE, MSE, RMSE, and R² for regression; accuracy, precision, recall, and F1-score for classification.  
 5. **Visualisation** – plotted performance metrics and feature importance for model interpretability.
->For a more detailed discussion of methodology, results, and analysis, please refer to the [full report](link-to-report.pdf).
+>For a more detailed discussion of methodology, results, and analysis, please refer to the [full report](Exploring ML Models for Regression and Classification.pdf).
 <!--- Add the link to the report --->
 
 <br>
