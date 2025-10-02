@@ -1,3 +1,6 @@
+<img width="100%" alt="Exploring_ML_Models_-_Banner" src="https://github.com/user-attachments/assets/2edbd717-fb7e-4230-8835-133a4c79a0b7"/>
+
+
 # Exploring ML Models for Regression and Classification
 *A hands-on project demonstrating regression and classification with multiple machine learning models*
 
